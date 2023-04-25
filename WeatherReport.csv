@@ -1,0 +1,7 @@
+Day/Parameter,15
+Temperature (C),28,Average:29.8,Max:32,Min:28,Median:30.0
+Wind (m/s),4,Average:7.2,Max:15,Min:2,Median:5.0
+Humidity (%),15,Average:33.4,Max:80,Min:15,Median:20.0
+Precipitation (%),0,Average:8.0,Max:40,Min:0,Median:0.0
+Lightning,No
+Clouds,Stratus
