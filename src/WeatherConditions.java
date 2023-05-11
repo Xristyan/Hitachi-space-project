@@ -6,12 +6,6 @@ public class WeatherConditions {
     private int wind;
     private int humidity;
 
-    public WeatherConditions() {
-        this.lowestTemperature = 2;
-        this.highestTemperature = 31;
-        this.wind = 10;
-        this.humidity=60;
-    }
 
     public WeatherConditions(int lowestTemperature, int highestTemperature, int wind, int humidity) {
         this.lowestTemperature = lowestTemperature;
